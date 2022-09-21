@@ -14,7 +14,7 @@
 
 This is the code of my dissertation supervised by Prof. Hossein Sameti at CS@Sharif University of Technology and also the code of my solution submitted to SemEval 2022 workshop.
 
-Data folder includes [SemEval 2022 Task 10](https://github.com/jerbarnes/semeval22_structured_sentiment) data and SemEval 2014-2015 (Pontiki et al. 2014, 2015) data annotated by (Wang et al. 2016, 2017). The latter one is on Targeted Sentiment Analysis task and I obtained it from (Chen et Qian 2020) [github repo](https://github.com/NLPWM-WHU/RACL). It also 
+Data folder includes [SemEval 2022 Task 10](https://github.com/jerbarnes/semeval22_structured_sentiment) data and SemEval 2014-2015 (Pontiki et al. 2014, 2015) data annotated by (Wang et al. 2016, 2017). The latter one is on Targeted Sentiment Analysis task and I obtained it from (Chen et Qian 2020) [github repo](https://github.com/NLPWM-WHU/RACL).
 
 Three notebooks are provided by this repository. Each one is explained below.
 
