@@ -5,7 +5,7 @@
 <a href="https://github.com/Sharif-SLPL/Attentionist-a-novel-solution-for-structured-sentiment-analysis">
     <img src="https://github.com/aleen42/badges/raw/master/src/github.svg" alt="hosted on Github"/>
 </a>
-<a href="https://colab.research.google.com/github/Sharif-SLPL/ Attentionist-a-novel-solution-for-structured-sentiment-analysis/blob/master">
+<a href="https://colab.research.google.com/github/Sharif-SLPL/Attentionist-a-novel-solution-for-structured-sentiment-analysis/blob/master/Attentionist_SSA.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Document"/>
 </a>
 </div>
